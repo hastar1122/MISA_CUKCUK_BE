@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CUKCUK\\MISA.WEB05.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj",
+        "projectName": "MISA.WEB05.CORE",
+        "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CUKCUK\\MISA.WEB05.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CUKCUK\\MISA.WEB05.API.csproj",
+        "projectName": "MISA.WEB05.API",
+        "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CUKCUK\\MISA.WEB05.API.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CUKCUK\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj"
+              },
+              "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\MISA.WEB05.INFRASTRUCTURE.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\MISA.WEB05.INFRASTRUCTURE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\MISA.WEB05.INFRASTRUCTURE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\MISA.WEB05.INFRASTRUCTURE.csproj",
+        "projectName": "MISA.WEB05.INFRASTRUCTURE",
+        "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\MISA.WEB05.INFRASTRUCTURE.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.INFRASTRUCTURE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\NetCore\\MISA.WEB05.CUKCUK\\MISA.WEB05.CORE\\MISA.WEB05.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

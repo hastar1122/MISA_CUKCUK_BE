@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\bin\Debug\net6.0\MISA.WEB05.CORE.deps.json
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\bin\Debug\net6.0\MISA.WEB05.CORE.dll
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\bin\Debug\net6.0\MISA.WEB05.CORE.pdb
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.AssemblyInfo.cs
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.dll
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\refint\MISA.WEB05.CORE.dll
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.pdb
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\ref\MISA.WEB05.CORE.dll
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.Resources.Resource.resources
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\NetCore\MISA.WEB05.CUKCUK\MISA.WEB05.CORE\obj\Debug\net6.0\MISA.WEB05.CORE.Resources.Validate.resources
